@@ -1,4 +1,4 @@
-# Complete-HTML-
+# Complete-HTML
 HTML Concepts & Practice
 
 This repository is a personal learning archive where I upload everything I’ve learned about HTML, including:
